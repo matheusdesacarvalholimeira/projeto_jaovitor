@@ -1,0 +1,25 @@
+/* src/pages/DiversasImagensPage.css */
+.imagem-container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .imagem {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    margin: 8px;
+  }
+  .imagem-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;  /* Centraliza as imagens horizontalmente */
+    align-items: center;      /* Centraliza as imagens verticalmente */
+  }
+  
+  .imagem {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    margin: 8px;
+  }

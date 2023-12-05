@@ -1,0 +1,5 @@
+.regras-container {
+    text-align: left; /* Align text to the left within the container */
+    max-width: 800px; /* Set a maximum width for better readability */
+    margin: 0 auto; /* Center the container horizontally */
+  }
